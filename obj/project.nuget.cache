@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7TVV6enEfYqIzNL/AgKGBfc/JhwnFiZnA6rjCK7+S564KnyM2wPIJxyQgt6ySubpT9z45Iojndh8f607WzDDzQ==",
+  "success": true,
+  "projectFilePath": "/Users/malinsvensson/Desktop/mom3/mom3.csproj",
+  "expectedPackageFiles": [
+    "/Users/malinsvensson/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

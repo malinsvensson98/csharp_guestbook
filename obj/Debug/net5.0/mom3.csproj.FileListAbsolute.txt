@@ -1,0 +1,17 @@
+/Users/malinsvensson/Desktop/mom3/bin/Debug/net5.0/mom3.deps.json
+/Users/malinsvensson/Desktop/mom3/bin/Debug/net5.0/mom3.runtimeconfig.json
+/Users/malinsvensson/Desktop/mom3/bin/Debug/net5.0/mom3.runtimeconfig.dev.json
+/Users/malinsvensson/Desktop/mom3/bin/Debug/net5.0/mom3.dll
+/Users/malinsvensson/Desktop/mom3/bin/Debug/net5.0/ref/mom3.dll
+/Users/malinsvensson/Desktop/mom3/bin/Debug/net5.0/mom3.pdb
+/Users/malinsvensson/Desktop/mom3/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/mom3.csprojAssemblyReference.cache
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/mom3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/mom3.AssemblyInfoInputs.cache
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/mom3.AssemblyInfo.cs
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/mom3.csproj.CoreCompileInputs.cache
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/mom3.csproj.CopyComplete
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/mom3.dll
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/ref/mom3.dll
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/mom3.pdb
+/Users/malinsvensson/Desktop/mom3/obj/Debug/net5.0/mom3.genruntimeconfig.cache
